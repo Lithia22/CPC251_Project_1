@@ -2,7 +2,7 @@
 
 - **Project Goal:** Build and compare models to assess cervical cancer risk.
 - **Models Used:** K-Nearest Neighbors (KNN) and Decision Trees.
-- **Objective:** Improve early detection and treatment decisions.
+- **Target:** Predicting cervical cancer risk using the imbalanced 'Biopsy' variable.
 
 ## Prerequisites
 
