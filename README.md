@@ -8,9 +8,11 @@
 
 - [Python 3.x](https://www.python.org/downloads/)
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, plotly
+  
   ```bash
   pip install numpy pandas matplotlib seaborn scikit-learn plotly
   ```
+  
 - [Jupyter Notebook](https://jupyter.org/install)
 
 ## How To Use
