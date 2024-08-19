@@ -1,4 +1,4 @@
-# Cervical Cancer Prediction
+# Cervical Cancer Prediction - Part 1
 
 - **Project Goal:** Build and compare models to assess cervical cancer risk.
 - **Models Used:** `K-Nearest Neighbors` and `Decision Trees`.
