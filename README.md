@@ -23,11 +23,5 @@
    git clone https://github.com/Lithia22/CPC251_Project_1.git
    ```
    
-2. **Navigate to the project directory**
-   
-   ```bash 
-   cd CPC251_Project_Part1_Cancer3
-   ```
-   
-3. **Run notebooks:** Open `.ipynb` files and run the cells.
+2. **Run notebooks:** Open `.ipynb` files and run the cells.
 
